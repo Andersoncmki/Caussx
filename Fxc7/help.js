@@ -5,7 +5,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 SUBSCRIBE:ANKER PRODUCTION
 DI SITU ADA TUTORIAL JADI BOT
 
-╭──────「 *REGULATION ${name}* 」
+╭──────「 *MINATO BOT* 」
 ┴
 ┣⊱  \`\`\`NAMA USER:\`\`\` *${pushname2}*
 ┣⊱  \`\`\`VERIVICATION:\`\`\` ✅
@@ -20,7 +20,8 @@ DI SITU ADA TUTORIAL JADI BOT
 ┣⊱  \`\`\`Melanggar??\`\`\` *Banned + Out Group*
 ┬
 ╰────────────────────────
-
+DONO DO BOT:wa.me/+556993553851
+BASE DO BOT: Causs
 
 ╭──────「 *ABOUT ${name}* 」
 ┴
@@ -339,7 +340,7 @@ const donasi = (name) => {
 │√ *PULSA: 08311800241*
 │√ *OVO : 08311800241*
 ┬
-╰──────「 *BY ${name}* 」
+╰──────「 *BY ${Anderson}* 」
 
 Untuk Kelangsungan Hidup Bot Karna Kuota Mahal:'
 `
